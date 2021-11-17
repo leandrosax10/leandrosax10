@@ -2,7 +2,7 @@
 
 -💻 Hoje trabalho com Front-end como voluntário na Tech Pro Bem 
 
--📱 Estudando React-Native
+-📱 Estudando React/React-Native
 
 
 <div align="center">
