@@ -2,7 +2,7 @@
 
 -💻 Hoje trabalho com Front-end como voluntário na Tech Pro Bem 
 
--📱 Estudando React
+-📱 Estudando React e Desenvolvimento Android com Java
 
 
 <div align="center">
