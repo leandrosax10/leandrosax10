@@ -1,8 +1,7 @@
-## Olá, Eu sou o Leandro Santos 😁
-
+## Olá, Eu sou o Leandro Santos 😁 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/>      
 -💻 Hoje trabalho com Front-end como voluntário na Tech Pro Bem 
 
--📱 Estudando React e Desenvolvimento Android com Java
+-📱 Estudando React e desenvolvimento Android com Java
 
 
 <div align="center">
@@ -19,6 +18,7 @@
   <img align="center" alt="Leandro-kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Leandro-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Leandro-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />  
+   
 </div>
   
   ##
