@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Leandro Santos 😁 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/>      
--💻 Hoje trabalho com Front-end como voluntário na Tech Pro Bem 
+-💻 Hoje trabalho com Front-end
 
 -📱 Estudando React e desenvolvimento Android com Java
 
