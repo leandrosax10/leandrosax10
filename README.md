@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Leandro Santos 😁 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/>      
--💻 Dev Full stack Node/React
+-💻 Dev Full stack Node/React - Flutter
 
--📱 Estudando Node, React e Typescript.
+-📱 Estudando Flutter
 
 
 <div align="center">
